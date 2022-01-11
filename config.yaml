@@ -1,0 +1,8 @@
+---
+sample_info: "Samples.tsv"
+
+Organism: Mus musculus
+
+Make_Salmon_index: Yes
+
+#Salmon_index:
